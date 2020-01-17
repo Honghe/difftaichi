@@ -1,2 +1,3 @@
-taichi-nightly==0.3.18
-
+taichi-nightly-cuda-10-0
+matplotlib
+ipython
